@@ -1,6 +1,6 @@
 # NgxTelInput
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+A fork of the ng2-tel-input to update to Angular 11
 
 ## Development server
 
